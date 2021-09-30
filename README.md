@@ -34,6 +34,16 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeffWang0325&repo=Image-Identification-for-Self-Driving-Cars&theme=light" />
 </a>
 
+</a>
+<a href="https://github.com/JeffWang0325/Microsoft-Azure-Cognitive-Services">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeffWang0325&repo=Microsoft-Azure-Cognitive-Services&theme=light" />
+</a>
+
+</a>
+<a href="https://github.com/JeffWang0325/AOI-Sheet-Substrate-Defect-Inspection-Software">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeffWang0325&repo=AOI-Sheet-Substrate-Defect-Inspection-Software&theme=light" />
+</a>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
