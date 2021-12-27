@@ -1,0 +1,41 @@
+
+
+
+
+聚類kmeans演算法在yolov3中的應用: https://iter01.com/420466.html
+
+Anchor Boxes — The key to quality object detection: https://towardsdatascience.com/anchor-boxes-the-key-to-quality-object-detection-ddf9d612d4f9
+
+You Only Look Once(YOLO): Implementing YOLO in less than 30 lines of Python Code: https://medium.com/analytics-vidhya/you-only-look-once-yolo-implementing-yolo-in-less-than-30-lines-of-python-code-97fb9835bfd2
+
+【AI Meetup】 最強的AI物件偵測技術Yolo-v4作者親自剖析: https://www.youtube.com/watch?v=HdQqAF-rMKc&t=3327s&ab_channel=AINTU-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%8A%80%E8%A1%93%E6%9A%A8%E5%85%A8%E5%B9%85%E5%81%A5%E5%BA%B7%E7%85%A7%E8%AD%B7%E8%81%AF%E5%90%88%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83
+
+
+
+
+map
+
+COCO Dataset
+
+標註軟體
+
+
+標註標準一致性 (4個人標註)
+consistence
+
+資料量太少
+
+多樣性: 不同天氣 亮暗環境
+
+參數優化 (訓練時間太久)
+升級GPU，Multi-gpu
+
+
+*Program Architecture
+GUI Layout Technique
+
+*Future Works and Optimization:
+
+*Links:
+
+
